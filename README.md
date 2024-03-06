@@ -24,7 +24,6 @@ The primary objective of this project is to gain insights into the factors influ
    - Examining the correlation between age and bike purchases assists in understanding whether certain age groups are more inclined towards bike ownership.
 
 ## Excel Dashboard Overview
-![Dashboard](https://github.com/Raza464/Bike-Purchase-Analysis/assets/124292490/78cb3afb-da23-4874-b232-4e0827e92d2b)
 
 - **User-Friendly Interface:** The dashboard is designed with an intuitive and user-friendly interface for ease of use.
   
@@ -34,6 +33,9 @@ The primary objective of this project is to gain insights into the factors influ
 
 - **Drill-Down Capabilities:** Users can drill down into specific visualizations to uncover deeper insights and trends within each category.
 
+![Dashboard](https://github.com/Raza464/Bike-Purchase-Analysis/assets/124292490/78cb3afb-da23-4874-b232-4e0827e92d2b)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Business Impact
 
 - **Informed Decision-Making:** By answering these key questions, the business can make informed decisions regarding targeted marketing efforts, product development, and resource allocation.
