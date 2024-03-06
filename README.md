@@ -24,6 +24,7 @@ The primary objective of this project is to gain insights into the factors influ
    - Examining the correlation between age and bike purchases assists in understanding whether certain age groups are more inclined towards bike ownership.
 
 ## Excel Dashboard Overview
+![Dashboard](https://github.com/Raza464/Bike-Purchase-Analysis/assets/124292490/78cb3afb-da23-4874-b232-4e0827e92d2b)
 
 - **User-Friendly Interface:** The dashboard is designed with an intuitive and user-friendly interface for ease of use.
   
